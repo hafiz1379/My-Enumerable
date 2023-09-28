@@ -145,15 +145,6 @@ Example:
 **LinkedIn**: [LinkedIn](https://linkedin.com/in/derek-akrasi-konadu)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- **[Add more animals database]**
-- **[Easy data retrieval]**
-- **[Efficient data management]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
